@@ -1,0 +1,24 @@
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.Helpers\bin\Debug\net6.0\FBDE.Helpers.deps.json
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.Helpers\bin\Debug\net6.0\FBDE.Helpers.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.Helpers\bin\Debug\net6.0\FBDE.Helpers.pdb
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.Helpers\obj\Debug\net6.0\FBDE.Helpers.csproj.AssemblyReference.cache
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.Helpers\obj\Debug\net6.0\FBDE.Helpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.Helpers\obj\Debug\net6.0\FBDE.Helpers.AssemblyInfoInputs.cache
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.Helpers\obj\Debug\net6.0\FBDE.Helpers.AssemblyInfo.cs
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.Helpers\obj\Debug\net6.0\FBDE.Helpers.csproj.CoreCompileInputs.cache
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.Helpers\obj\Debug\net6.0\FBDE.Helpers.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.Helpers\obj\Debug\net6.0\refint\FBDE.Helpers.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.Helpers\obj\Debug\net6.0\FBDE.Helpers.pdb
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.Helpers\obj\Debug\net6.0\ref\FBDE.Helpers.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.Helpers\bin\Debug\net6.0\FBDE.Helpers.deps.json
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.Helpers\bin\Debug\net6.0\FBDE.Helpers.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.Helpers\bin\Debug\net6.0\FBDE.Helpers.pdb
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.Helpers\obj\Debug\net6.0\FBDE.Helpers.csproj.AssemblyReference.cache
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.Helpers\obj\Debug\net6.0\FBDE.Helpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.Helpers\obj\Debug\net6.0\FBDE.Helpers.AssemblyInfoInputs.cache
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.Helpers\obj\Debug\net6.0\FBDE.Helpers.AssemblyInfo.cs
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.Helpers\obj\Debug\net6.0\FBDE.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.Helpers\obj\Debug\net6.0\FBDE.Helpers.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.Helpers\obj\Debug\net6.0\refint\FBDE.Helpers.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.Helpers\obj\Debug\net6.0\FBDE.Helpers.pdb
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.Helpers\obj\Debug\net6.0\ref\FBDE.Helpers.dll

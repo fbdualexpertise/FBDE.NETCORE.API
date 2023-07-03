@@ -1,0 +1,538 @@
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\appsettings.Development.json
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\appsettings.json
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\FBDE.POC.API.exe
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\FBDE.POC.API.deps.json
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\FBDE.POC.API.runtimeconfig.json
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\FBDE.POC.API.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\FBDE.POC.API.pdb
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Azure.Core.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Azure.Identity.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Humanizer.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\MessagePack.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.Build.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\NuGet.Common.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\System.CodeDom.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\System.Memory.Data.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\System.Text.Json.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\FBDE.Helpers.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\FBDE.Helpers.pdb
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\obj\Debug\net6.0\FBDE.POC.API.csproj.AssemblyReference.cache
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\obj\Debug\net6.0\FBDE.POC.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\obj\Debug\net6.0\FBDE.POC.API.AssemblyInfoInputs.cache
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\obj\Debug\net6.0\FBDE.POC.API.AssemblyInfo.cs
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\obj\Debug\net6.0\FBDE.POC.API.csproj.CoreCompileInputs.cache
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\obj\Debug\net6.0\FBDE.POC.API.MvcApplicationPartsAssemblyInfo.cs
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\obj\Debug\net6.0\FBDE.POC.API.MvcApplicationPartsAssemblyInfo.cache
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\obj\Debug\net6.0\staticwebassets\msbuild.FBDE.POC.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\obj\Debug\net6.0\staticwebassets\msbuild.build.FBDE.POC.API.props
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FBDE.POC.API.props
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FBDE.POC.API.props
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\obj\Debug\net6.0\scopedcss\bundle\FBDE.POC.API.styles.css
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\obj\Debug\net6.0\FBDE.POC.API.csproj.CopyComplete
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\obj\Debug\net6.0\FBDE.POC.API.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\obj\Debug\net6.0\refint\FBDE.POC.API.dll
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\obj\Debug\net6.0\FBDE.POC.API.pdb
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\obj\Debug\net6.0\FBDE.POC.API.genruntimeconfig.cache
+C:\PROJETS VISUAL STUDIO\FBDE_WEBAPIS\FBDE.NETCORE.API\FBDE.POC.API\obj\Debug\net6.0\ref\FBDE.POC.API.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\appsettings.json
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\FBDE.POC.API.exe
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\FBDE.POC.API.deps.json
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\FBDE.POC.API.runtimeconfig.json
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\FBDE.POC.API.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\FBDE.POC.API.pdb
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\MessagePack.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\af\Humanizer.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\ar\Humanizer.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\az\Humanizer.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\bg\Humanizer.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\bn-BD\Humanizer.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\cs\Humanizer.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\da\Humanizer.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\de\Humanizer.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\el\Humanizer.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\es\Humanizer.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\fa\Humanizer.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\fi-FI\Humanizer.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\fr\Humanizer.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\fr-BE\Humanizer.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\he\Humanizer.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\hr\Humanizer.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\hu\Humanizer.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\hy\Humanizer.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\id\Humanizer.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\is\Humanizer.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\it\Humanizer.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\ja\Humanizer.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\ko-KR\Humanizer.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\ku\Humanizer.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\lv\Humanizer.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\ms-MY\Humanizer.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\mt\Humanizer.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\nb\Humanizer.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\nb-NO\Humanizer.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\nl\Humanizer.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\pl\Humanizer.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\pt\Humanizer.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\ro\Humanizer.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\ru\Humanizer.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\sk\Humanizer.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\sl\Humanizer.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\sr\Humanizer.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\sr-Latn\Humanizer.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\sv\Humanizer.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\th-TH\Humanizer.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\tr\Humanizer.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\uk\Humanizer.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\vi\Humanizer.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\zh-CN\Humanizer.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\zh-Hans\Humanizer.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\zh-Hant\Humanizer.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\FBDE.Helpers.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\bin\Debug\net6.0\FBDE.Helpers.pdb
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\obj\Debug\net6.0\FBDE.POC.API.csproj.AssemblyReference.cache
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\obj\Debug\net6.0\FBDE.POC.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\obj\Debug\net6.0\FBDE.POC.API.AssemblyInfoInputs.cache
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\obj\Debug\net6.0\FBDE.POC.API.AssemblyInfo.cs
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\obj\Debug\net6.0\FBDE.POC.API.csproj.CoreCompileInputs.cache
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\obj\Debug\net6.0\FBDE.POC.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\obj\Debug\net6.0\FBDE.POC.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\obj\Debug\net6.0\staticwebassets\msbuild.FBDE.POC.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\obj\Debug\net6.0\staticwebassets\msbuild.build.FBDE.POC.API.props
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FBDE.POC.API.props
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FBDE.POC.API.props
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\obj\Debug\net6.0\scopedcss\bundle\FBDE.POC.API.styles.css
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\obj\Debug\net6.0\FBDE.POC.API.csproj.CopyComplete
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\obj\Debug\net6.0\FBDE.POC.API.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\obj\Debug\net6.0\refint\FBDE.POC.API.dll
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\obj\Debug\net6.0\FBDE.POC.API.pdb
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\obj\Debug\net6.0\FBDE.POC.API.genruntimeconfig.cache
+C:\Users\aurel\Source\Repos\fbdualexpertise\FBDE.NETCORE.API\FBDE.POC.API\obj\Debug\net6.0\ref\FBDE.POC.API.dll

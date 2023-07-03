@@ -1,0 +1,7 @@
+Microsoft.EntityFrmaeworkCore.SqlServer
+Microsoft.EntityFrmaeworkCore.Tools
+
+Microsoft.EntityFrameworkCore.Design
+
+Scaffold-DbContext "Server=DESKTOP-9H3EM17;Database=FBDE_WEBSITE_DB;Integrated Security=False;TrustServerCertificate=true" Microsoft.EntityFrameworkCore.SqlServer - OutputDir "Datas\ORM\EntityFramework" Persist Security Info=True;User ID=sa;Password=***********
+Scaffold-DbContext "Server=DESKTOP-9H3EM17;Database=FBDE_WEBSITE_DB;Integrated Security=False;TrustServerCertificate=true;User ID=sa;Password=01031207Fr@nckyx;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
